@@ -9,8 +9,6 @@
   
 - 👉🏻 Checkout -> **https://linktr.ee/keshav1435**
 
-- 🌱 I’m currently learning ->  **Redux , SpringBoot**
-
 - 💬 Ask me about ->  **React, Node.js**
 
 - 📫 How to reach me -> **keshavkumar21167@gmail.com**
