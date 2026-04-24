@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav Kumar</h1>
+<h1 align="center">Hi, I'm Keshav Kumar</h1>
 
 <h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
 
@@ -6,24 +6,24 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 Full Stack Developer with hands-on experience in **React, Node.js, MongoDB**
-- 💼 Currently working as a **Software Developer Intern**
-- 🌱 Continuously improving in **system design & scalable architectures**
-- 🎯 Goal: Build impactful products & grow into a high-level engineer
-
----
-
-### 🌐 Portfolio & Links
-
-- 🌍 Portfolio: **https://keshavkumar-beta.vercel.app/**
-- 🔗 Linktree: **https://linktr.ee/keshav1435**
-- 💻 GitHub: **https://github.com/KeshavKumarCG**
+- Full Stack Developer with hands-on experience in React, Node.js, and MongoDB  
+- Currently working as a Software Developer Intern  
+- Continuously improving in system design and scalable architectures  
+- Focused on building impactful and production-ready applications  
 
 ---
 
-### 💬 Ask Me About
+### Portfolio & Links
+
+- Portfolio: https://keshavkumar-beta.vercel.app/  
+- Linktree: https://linktr.ee/keshav1435  
+- GitHub: https://github.com/KeshavKumarCG  
+
+---
+
+### Ask Me About
 
 - Frontend: React, Tailwind CSS  
 - Backend: Node.js, Express  
@@ -32,23 +32,23 @@
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
-- 📧 Email: **keshavkumar21167@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/keshavkumar001**
-- 🧠 LeetCode: **https://www.leetcode.com/keshavkumar21167**
+- Email: keshavkumar21167@gmail.com  
+- LinkedIn: https://linkedin.com/in/keshavkumar001  
+- LeetCode: https://www.leetcode.com/keshavkumar21167  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,java,cpp,html,css,tailwind,docker,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,java,cpp,html,css,tailwind,docker,firebase,azure" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshavkumar143&show_icons=true&theme=tokyonight" />
@@ -64,19 +64,19 @@
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
-- 🛒 **ClothingBranch-Ecommerce**  
-  Full-stack e-commerce app with authentication, cart & Redux  
+- ClothingBranch-Ecommerce  
+  Full-stack e-commerce application with authentication, cart, and Redux  
 
-- ✍️ **IdeaWave Blog Platform**  
-  Create, edit, delete posts with user-based permissions  
+- IdeaWave Blog Platform  
+  Blog platform with create, edit, and delete functionality and user authorization  
 
-- 📍 **Real-Time Location Tracker**  
+- Real-Time Location Tracker  
   Live tracking system using geolocation APIs  
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 
-> I don’t just write code — I build products that solve real problems 🚀
+I focus on building scalable, efficient, and real-world usable applications.
