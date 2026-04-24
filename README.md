@@ -64,19 +64,6 @@
 
 ---
 
-### Featured Projects
-
-- ClothingBranch-Ecommerce  
-  Full-stack e-commerce application with authentication, cart, and Redux  
-
-- IdeaWave Blog Platform  
-  Blog platform with create, edit, and delete functionality and user authorization  
-
-- Real-Time Location Tracker  
-  Live tracking system using geolocation APIs  
-
----
-
 ### Fun Fact
 
 I focus on building scalable, efficient, and real-world usable applications.
