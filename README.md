@@ -66,7 +66,6 @@ I'm a full stack developer working across the JavaScript ecosystem, from React i
 
 ## Featured Projects
 
-<!-- Replace these rows with your strongest repositories. Pin the same repos on your profile. -->
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -77,10 +76,24 @@ I'm a full stack developer working across the JavaScript ecosystem, from React i
 
 ## GitHub Activity
 
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keshavkumar143&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkumar143&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  <br/>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commit time of day"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=keshavkumar143&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
