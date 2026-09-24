@@ -64,15 +64,6 @@ I'm a full stack developer working across the JavaScript ecosystem, from React i
 
 <br/>
 
-## Featured Projects
-
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Project Name](https://github.com/keshavkumar143/REPO) | One line on what it does and what's technically interesting about it | React · Node.js · MongoDB |
-| [Project Name](https://github.com/keshavkumar143/REPO) | One line on what it does and what's technically interesting about it | Tech · Tech |
-
-<br/>
 
 ## GitHub Activity
 
