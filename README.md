@@ -1,69 +1,91 @@
-<h1 align="center">Hi, I'm Keshav Kumar</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
+# Keshav Kumar
 
-<img align="right" width="350" src="https://github.com/keshavkumar143/keshavkumar143/assets/93115745/52acdf43-e55f-4c42-835c-5763e7a37ac4" alt="coding gif"/>
+**Full Stack Developer · React · Node.js · MongoDB**
 
----
+Building scalable, production-ready web applications.
 
-### About Me
+<br/>
 
-- Full Stack Developer with hands-on experience in React, Node.js, and MongoDB  
-- Currently working as a Software Developer Intern  
-- Continuously improving in system design and scalable architectures  
-- Focused on building impactful and production-ready applications  
+<a href="https://keshavkumar-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/keshavkumar001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:keshavkumar21167@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.leetcode.com/keshavkumar21167"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://linktr.ee/keshav1435"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
 
----
+</div>
 
-### Portfolio & Links
+<br/>
 
-- Portfolio: https://keshavkumar-beta.vercel.app/  
-- Linktree: https://linktr.ee/keshav1435  
-- GitHub: https://github.com/KeshavKumarCG  
+## About
 
----
+I'm a full stack developer working across the JavaScript ecosystem, from React interfaces to Node.js/Express services backed by MongoDB and MySQL. I care about writing applications that hold up in real use: clean APIs, sensible data models, and code other engineers can maintain.
 
-### Ask Me About
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Currently</b><br/>
+      Software Developer at <i>[Company]</i>
+    </td>
+    <td width="50%" valign="top">
+      <b>Focus</b><br/>
+      System design and scalable application architecture
+    </td>
+  </tr>
+</table>
 
-- Frontend: React, Tailwind CSS  
-- Backend: Node.js, Express  
-- Databases: MongoDB, MySQL  
-- Tools: Git, Docker, Firebase  
+<br/>
 
----
+## Tech Stack
 
-### Contact Me
+<table>
+  <tr>
+    <td width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="React, Tailwind CSS, HTML, CSS, JavaScript"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL"/></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,java,cpp" alt="JavaScript, Java, C++"/></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,firebase,azure" alt="Git, Docker, Firebase, Azure"/></td>
+  </tr>
+</table>
 
-- Email: keshavkumar21167@gmail.com  
-- LinkedIn: https://linkedin.com/in/keshavkumar001  
-- LeetCode: https://www.leetcode.com/keshavkumar21167  
+<br/>
 
----
+## Featured Projects
 
-### Tech Stack
+<!-- Replace these rows with your strongest repositories. Pin the same repos on your profile. -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,java,cpp,html,css,tailwind,docker,firebase,azure" />
-</p>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Project Name](https://github.com/keshavkumar143/REPO) | One line on what it does and what's technically interesting about it | React · Node.js · MongoDB |
+| [Project Name](https://github.com/keshavkumar143/REPO) | One line on what it does and what's technically interesting about it | Tech · Tech |
 
----
+<br/>
 
-### GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavkumar143&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keshavkumar143&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkumar143&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=keshavkumar143&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavkumar143&theme=tokyonight" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkumar143&layout=compact&theme=tokyonight" />
-</p>
+## Get in Touch
 
----
-
-### Fun Fact
-
-I focus on building scalable, efficient, and real-world usable applications.
+I'm open to conversations about full stack roles, collaborations, and interesting engineering problems. The fastest way to reach me is by [email](mailto:keshavkumar21167@gmail.com) or on [LinkedIn](https://linkedin.com/in/keshavkumar001).
