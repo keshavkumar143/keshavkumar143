@@ -42,23 +42,48 @@ I'm a full stack developer working across the JavaScript ecosystem, from React i
 <table>
   <tr>
     <td width="140"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="React, Tailwind CSS, HTML, CSS, JavaScript"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind CSS, HTML, CSS"/>
+    </td>
   </tr>
+
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="Node.js, Express, .NET"/>
+    </td>
   </tr>
+
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo"/>
+    </td>
+  </tr>
+
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,mssql" alt="MongoDB, MySQL, PostgreSQL, SQL Server"/>
+    </td>
   </tr>
+
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,java,cpp" alt="JavaScript, Java, C++"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,java,python" alt="JavaScript, Java, Python"/>
+    </td>
   </tr>
+
   <tr>
     <td><b>Cloud & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,docker,firebase,azure" alt="Git, Docker, Firebase, Azure"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,docker,firebase,azure" alt="Git, Docker, Firebase, Azure"/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/octopusdeploy/2F93E0" width="48" height="48" alt="Octopus Deploy"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Sentinet-API%20Management-4A90E2?style=for-the-badge" alt="Sentinet"/>
+    </td>
   </tr>
 </table>
 
