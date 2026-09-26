@@ -26,7 +26,7 @@ I'm a full stack developer working across the JavaScript ecosystem, from React i
   <tr>
     <td width="50%" valign="top">
       <b>Currently</b><br/>
-      Software Developer at <i>[Company]</i>
+      Software Developer at <i>CG Infinity</i>
     </td>
     <td width="50%" valign="top">
       <b>Focus</b><br/>
