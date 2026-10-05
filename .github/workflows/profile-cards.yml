@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-cards.yml
+      - .github/scripts/streak_card.py
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -18,3 +27,35 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+  streak:
+    needs: build
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Generate streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          TIMEZONE: Asia/Kolkata
+          OUTPUT: streak-card/streak.svg
+        run: python3 .github/scripts/streak_card.py
+
+      - name: Commit streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak-card/streak.svg
+          if git diff --cached --quiet; then
+            echo "Streak card unchanged"
+            exit 0
+          fi
+          git commit -m "Update streak card"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin HEAD:"${{ github.ref_name }}"
