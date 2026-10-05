@@ -110,7 +110,7 @@ I'm a full stack developer working across the JavaScript ecosystem, from React i
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=keshavkumar143&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=keshavkumar143&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="GitHub streak"/>
 </div>
 
 <br/>
